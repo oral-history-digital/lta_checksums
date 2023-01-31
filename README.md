@@ -23,7 +23,7 @@ of the script to
 Make the script executable with
 
 ```console
-chmod +x create_checksums.py
+$ chmod +x create_checksums.py
 ```
 
 ## Usage
